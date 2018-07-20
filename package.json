@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background generator helps decide linear-gradient for your webite.\r It has two input colors on the page where you can set any color.\r This color values are then used in linear-gradient synatax.\r Which forecast the background with your choosen color values.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojSilag/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojSilag/background-generator/issues"
+  },
+  "homepage": "https://github.com/ManojSilag/background-generator#readme"
+}
